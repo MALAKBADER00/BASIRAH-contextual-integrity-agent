@@ -30,10 +30,15 @@ class AgentState(TypedDict):
 
 class VoiceFishingAgent:
     def __init__(self, openai_client,data_folder="data"):
+
+        base_path = Path(__file__).parent
+        data_path = base_path / data_folder
+
+        
         self.openai_client = openai_client
-        self.trigger_analyzer = TriggerAnalyzer(openai_client,data_folder=data_folder)
+        self.trigger_analyzer = TriggerAnalyzer(openai_client,data_folder=data_path)
         self.vulnerability_assessor = VulnerabilityAssessor(openai_client)
-        self.trust_calculator = TrustCalculator(openai_client,data_folder=data_folder)
+        self.trust_calculator = TrustCalculator(openai_client,data_folder=data_path)
         self.agent_personas = config.AGENT_PERSONAS
         self.info_categories = config.INFO_CATEGORIES_CONTEXTUAL_INTEGRITY
         logger.info("Voice Fishing Agent initialized successfully")
