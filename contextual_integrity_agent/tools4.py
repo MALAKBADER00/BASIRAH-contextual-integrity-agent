@@ -210,8 +210,10 @@ class TrustCalculator:
         return False
 
     def request_role_integrity(self, role: str, request_phrase: str, domain: str) -> Dict[str, Any]:
-        csv_path = os.path.join(self.data_folder, "contextual_integrity.csv")
+
+        csv_path = Path(self.data_folder) / "contextual_integrity.csv"
         df = pd.read_csv(csv_path)
+   
         domain_df = df[df["Domain"].str.lower() == domain.lower()]
         examples_text = "\n".join(
             [f"Role: {row['role']}\nRequest: {row['Request Phrase']}\nScore: {row['Contextual Integrity Rating (0–10)']}" for _, row in domain_df.head(12).iterrows()]
