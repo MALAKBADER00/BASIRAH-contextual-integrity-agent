@@ -6,7 +6,7 @@ from openai import OpenAI
 from langchain_core.output_parsers import JsonOutputParser
 import config
 from config import AGENT_PERSONAS
-
+from pathlib import Path
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
