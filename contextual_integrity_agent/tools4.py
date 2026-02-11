@@ -137,7 +137,7 @@ class TrustCalculator:
     def __init__(self,openai_client, data_folder="data"):
         self.openai =openai_client
         self.parser = JsonOutputParser()
-        self.data_folder = data_folder
+        self.data_folder =  Path(data_folder)
 
     def domain_role_integrity(self, domain, role):
         prompt = f"""
