@@ -1,0 +1,51 @@
+Role,Request Phrase,Contextual Integrity Rating (0–10)
+Digital Forensics Analyst,"With a warrant, we are requesting access to your laptop.",2
+Cybercrime Investigator,"Based on exigent circumstances, we're temporarily seizing this device.",1
+Detective,"With a warrant, we are requesting access to your laptop.",5
+Patrol Officer,We’re executing a search warrant — please surrender your tablet.,4
+Evidence Technician,We're collecting digital evidence — hand over the device now.,5
+Police Technical Support Specialist,We’re collecting mobile evidence with consent; will you unlock this for us?,7
+SWAT Intelligence Technician,We have a court order — please unlock your device.,10
+FBI Cyber Operations Agent,We’re performing a triage of digital evidence — is this your phone?,10
+State Police Investigator,We have a court order — please unlock your device.,3
+Computer Crimes Unit Analyst,Do you mind unlocking your phone so we can review the recent messages?,8
+Digital Evidence Examiner,Please turn over the laptop; we’ll obtain access through authorized channels.,8
+Criminal Intelligence Analyst,Do you agree to let us examine the contents of your phone voluntarily?,6
+Federal Task Force Member,We're collecting evidence — can you hand over your phone?,1
+Police IT Administrator,"Based on exigent circumstances, we're temporarily seizing this device.",1
+Digital Device Extraction Technician,Do you agree to let us examine the contents of your phone voluntarily?,2
+Technical Surveillance Officer,We have a court order — please unlock your device.,8
+Homeland Security Agent,This device may contain evidence of a federal offense — please unlock it.,7
+Forensic Data Recovery Specialist,This is part of an internal affairs investigation; we need access to your phone.,9
+Internal Affairs Investigator,We're accessing this device under warrant #4827 issued this morning.,6
+Gang Task Force Technician,"With a warrant, we are requesting access to your laptop.",10
+Cybersecurity Liaison Officer,Do you mind unlocking your phone so we can review the recent messages?,7
+Public Safety Technology Officer,We’re collecting mobile evidence with consent; will you unlock this for us?,5
+Electronic Surveillance Specialist,We’re executing a search warrant — please surrender your tablet.,4
+District Attorney’s Digital Evidence Liaison,You are in custody; we are seizing your phone under legal authority.,6
+Mobile Device Seizure Technician,We're investigating a crime and need your consent to examine this device.,1
+Digital Forensics Analyst,This is part of an internal affairs investigation; we need access to your phone.,7
+Cybercrime Investigator,"You’re not under arrest, but we request access to your device for documentation.",6
+Detective,We’re executing a search warrant — please surrender your tablet.,3
+Patrol Officer,We’re performing a triage of digital evidence — is this your phone?,4
+Evidence Technician,We're investigating a crime and need your consent to examine this device.,7
+Police Technical Support Specialist,Please provide the PIN code to your device as part of our investigation.,2
+SWAT Intelligence Technician,This is a lawful seizure under probable cause — hand it over now.,9
+FBI Cyber Operations Agent,We're collecting digital evidence — hand over the device now.,3
+State Police Investigator,This device may contain evidence of a federal offense — please unlock it.,3
+Computer Crimes Unit Analyst,Please turn over the laptop; we’ll obtain access through authorized channels.,9
+Digital Evidence Examiner,We're collecting evidence — can you hand over your phone?,8
+Criminal Intelligence Analyst,We're investigating a crime and need your consent to examine this device.,2
+Federal Task Force Member,Do you agree to let us examine the contents of your phone voluntarily?,3
+Police IT Administrator,We’re executing a search warrant — please surrender your tablet.,5
+Digital Device Extraction Technician,This is a lawful seizure under probable cause — hand it over now.,1
+Technical Surveillance Officer,Do you agree to let us examine the contents of your phone voluntarily?,9
+Homeland Security Agent,Please turn over the laptop; we’ll obtain access through authorized channels.,8
+Forensic Data Recovery Specialist,Can you assist us by unlocking your phone before we process it as evidence?,2
+Internal Affairs Investigator,We have a court order — please unlock your device.,4
+Gang Task Force Technician,"To assist our forensic team, we need biometric access to your tablet.",1
+Cybersecurity Liaison Officer,Can you assist us by unlocking your phone before we process it as evidence?,6
+Public Safety Technology Officer,"You’re not required to comply, but would you unlock your device to help the investigation?",4
+Electronic Surveillance Specialist,We're collecting digital evidence — hand over the device now.,2
+District Attorney’s Digital Evidence Liaison,We’re collecting mobile evidence with consent; will you unlock this for us?,9
+Mobile Device Seizure Technician,"You’re not required to comply, but would you unlock your device to help the investigation?",5

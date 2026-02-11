@@ -1,0 +1,51 @@
+Role,Request Phrase,Contextual Integrity Rating (0–10)
+Customer Service Representative,We need the password to reconfigure your VoIP line settings.,2
+Technical Support Specialist,Can you tell me your password to verify the account?,2
+Retail Store Associate,I’ll set up your new device — may I have the unlock password?,2
+Billing Support Agent,Would you mind unlocking your phone or sharing the password briefly?,1
+Tier 1 Help Desk Agent,Do you know your router’s admin password so I can configure it?,4
+Network Support Technician,Can you provide your password so I can access your account?,3
+Mobile Device Repair Technician,Can you tell me your password to verify the account?,9
+Live Chat Agent,We’re investigating unauthorized access. Could you share your password?,6
+Sales Representative,Please give me your router admin password so I can reconfigure it on-site.,1
+VoIP Support Engineer,I’ll set up your new device — may I have the unlock password?,1
+Field Service Technician,Please give me your password to complete your profile.,10
+CRM Administrator,Can you unlock your phone or provide the password so I can check the configuration?,4
+SIM Provisioning Specialist,Please share your password to help us debug login errors.,10
+Customer Onboarding Agent,Please type your password on the screen to proceed.,1
+Identity Verification Specialist,Can you unlock your phone or provide the password so I can check the configuration?,1
+Fraud Prevention Agent,Just type your password here so I can check your upgrade eligibility.,4
+Escalation Supervisor,Would you mind unlocking your phone or sharing the password briefly?,2
+Remote Troubleshooting Technician,We need the password to reconfigure your VoIP line settings.,9
+Account Retention Specialist,I’ll set up your new device — may I have the unlock password?,3
+Wi-Fi Support Agent,We need access to your account — could you share your password?,4
+Customer Device Setup Specialist,We’re investigating unauthorized access. Could you share your password?,6
+Cybersecurity Analyst,Can you unlock your phone or provide the password so I can check the configuration?,3
+Tech Support Team Lead,I need your account password to confirm your identity.,8
+Backend System Support Engineer,Just type your password here so I can check your upgrade eligibility.,5
+Self-Service Kiosk Attendant,Just type your password here so I can check your upgrade eligibility.,2
+IT Support Engineer,Please give me your password to complete your profile.,2
+Live Voice Agent,Can you provide your account password so I can log in on your behalf?,5
+Provisioning Team Lead,I'll optimize your settings — do you know your admin password?,8
+Router Installation Technician,I need your account password to confirm your identity.,4
+Customer Loyalty Manager,Please give me your password to complete your profile.,2
+Service Configuration Analyst,We need the password to reconfigure your VoIP line settings.,1
+Workforce Management Agent,"To finalize your activation, may I have your password?",6
+Call Center Trainer,Just type your password here so I can check your upgrade eligibility.,6
+Help Desk Tier 2 Agent,I need your account password to confirm your identity.,3
+Product Support Manager,I’m taking over your case. May I have your account password?,5
+NOC Engineer,I'll optimize your settings — do you know your admin password?,2
+Telecom SaaS Support Engineer,We’re investigating unauthorized access. Could you share your password?,8
+Business Account Representative,Please type your password on the screen to proceed.,1
+Installation & Repair Technician,Please share your password to help us debug login errors.,1
+Customer Education Specialist,Can you tell me your password to verify the account?,6
+System Administrator,I'll optimize your settings — do you know your admin password?,7
+Call Routing Engineer,Please enter your password so I can walk you through the login process.,7
+Support Escalation Engineer,"To finalize your activation, may I have your password?",3
+Platform Integration Specialist,Please share your password to help us debug login errors.,7
+Retail Store Device Setup Tech,Please share your password to help us debug login errors.,5
+Wi-Fi Optimization Technician,Would you mind unlocking your phone or sharing the password briefly?,7
+User Access Control Analyst,Let me access your account — can you provide the password?,1
+Device Swap Agent,Can you unlock your phone or provide the password so I can check the configuration?,5
+Home Network Installer,We need access to your account — could you share your password?,1
+Internal QA Auditor,Please enter your password so I can walk you through the login process.,3

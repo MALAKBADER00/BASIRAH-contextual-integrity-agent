@@ -1,0 +1,177 @@
+role,Request Phrase,Contextual Integrity Rating (0–10),Domain
+Bank Teller,Can you share your OTP so I can verify your transaction?,3,banking
+Loan Officer,Please provide your OTP to finalize your loan application.,4,banking
+Fraud Investigator,"To secure your account, I need the OTP you just received.",7,banking
+Customer Service Representative,Share your OTP to proceed with your request.,6,banking
+Relationship Manager,I need your OTP to authorize this high-value transaction.,5,banking
+Branch Manager,Give me your OTP to override this security alert.,4,banking
+Mobile Banking App Developer,I need your OTP to debug an app issue.,1,banking
+Marketing Analyst,Please send your OTP to update our mailing list.,0,banking
+IT Support Technician,I need your OTP to fix a login problem.,2,banking
+Banking Intern,Can I get your OTP to test our system?,0,banking
+Receptionist,Please give me your OTP so I can check your balance.,0,banking
+Security Guard,Give me your OTP to allow entry to the vault.,0,banking
+External Auditor (Unverified),I need your OTP to review your transaction log.,1,banking
+Bank Mascot or Brand Influencer,DM me your OTP so I can help with your account.,0,banking
+IT Manager,Send me your OTP so I can escalate your ticket.,1,banking
+Fraud Bot (Phishing),"To prevent fraud, enter your OTP here immediately.",0,banking
+ATM Technician,Provide your OTP to reset your ATM card.,0,banking
+Private Banker,We require your OTP for portfolio access.,4,banking
+Wealth Management Advisor,Your OTP is needed to move your assets.,4,banking
+Call Center Representative,Please tell me the OTP for verification.,6,banking
+Compliance Officer,Your OTP is needed for policy review.,1,banking
+Bank App Chatbot,Enter your OTP to continue the conversation.,5,banking
+Fake Customer Support (Scammer),We need your OTP to fix your bank issue.,0,banking
+Digital Banking Product Manager,I need your OTP for UX testing.,0,banking
+Treasury Analyst,Can I have your OTP to reconcile transactions?,1,banking
+Janitor,Give me your OTP so I can access your office.,0,banking
+Social Services Caseworker,Can you verify your residence history for the past five years?,5,government
+IRS Tax Examiner,Please provide your Medicaid ID and recent medical provider.,5,government
+Police Officer,Please provide your passport number and immigration status.,2,government
+DMV Clerk,I need your birth certificate number to finalize this record update.,1,government
+Public Health Nurse,We need your professional license number and expiration date.,2,government
+Census Enumerator,We need your tax ID to proceed with your application.,8,government
+FBI Field Agent,"To continue, we’ll need your Social Security number and employment details.",3,government
+Immigration Officer,"To continue, we’ll need your Social Security number and employment details.",8,government
+City Housing Inspector,Please provide your Medicaid ID and recent medical provider.,8,government
+Medicaid Eligibility Specialist,Please provide your Social Security number for this background investigation.,3,government
+Court Clerk,"To continue, we’ll need your Social Security number and employment details.",7,government
+Child Protective Services Investigator,We need your professional license number and expiration date.,3,government
+Veterans Affairs Officer,Please give your official residence and emergency contact name.,6,government
+Customs and Border Protection Agent,We'll need your government-issued ID number and mailing address.,4,government
+Local Election Official,We need your tax ID to proceed with your application.,10,government
+Public School Administrator,Can you provide the last four digits of your Social Security number?,7,government
+Public Benefits Program Manager,Can you provide your full name and previous home address for background check purposes?,1,government
+Medicare Claims Processor,I need your income verification documents and last known address.,5,government
+State Licensing Coordinator,We need your tax ID to proceed with your application.,6,government
+Environmental Compliance Officer,"To verify your eligibility, can you provide your Social Security number?",6,government
+Emergency Management Coordinator,I need your birth certificate number to finalize this record update.,2,government
+Community Outreach Specialist,Please provide your Social Security number for this background investigation.,2,government
+State Unemployment Claims Processor,Please provide your Medicaid ID and recent medical provider.,9,government
+Public Defender Assistant,We require your home address to process your benefits renewal.,1,government
+Postal Inspector,Can you give me your insurance information and date of birth?,7,government
+Social Services Caseworker,We’ll need your mailing address and telephone number to follow up.,3,government
+IRS Tax Examiner,We need your tax ID to proceed with your application.,3,government
+Police Officer,"To confirm your claim, I need your employment history and Social Security number.",1,government
+DMV Clerk,We need your tax ID to proceed with your application.,2,government
+Public Health Nurse,Please provide your Medicaid ID and recent medical provider.,1,government
+Census Enumerator,We need your professional license number and expiration date.,3,government
+FBI Field Agent,"To confirm your claim, I need your employment history and Social Security number.",6,government
+Immigration Officer,Can you provide your full name and previous home address for background check purposes?,9,government
+City Housing Inspector,"To verify your eligibility, can you provide your Social Security number?",8,government
+Medicaid Eligibility Specialist,We need your tax ID to proceed with your application.,4,government
+Court Clerk,Can you provide the last four digits of your Social Security number?,9,government
+Child Protective Services Investigator,Please provide your passport number and immigration status.,2,government
+Veterans Affairs Officer,Can you verify your residence history for the past five years?,5,government
+Customs and Border Protection Agent,Please confirm your date of birth and current address for identity verification.,7,government
+Local Election Official,Please confirm your child’s full name and school ID.,2,government
+Public School Administrator,Can you provide the last four digits of your Social Security number?,1,government
+Public Benefits Program Manager,"To verify your eligibility, can you provide your Social Security number?",5,government
+Medicare Claims Processor,I need your income verification documents and last known address.,6,government
+State Licensing Coordinator,Can you provide your full name and previous home address for background check purposes?,1,government
+Environmental Compliance Officer,Please provide your Social Security number for this background investigation.,4,government
+Emergency Management Coordinator,We'll need your government-issued ID number and mailing address.,4,government
+Community Outreach Specialist,Can you share your military service number and discharge status?,4,government
+State Unemployment Claims Processor,Can you provide your full name and previous home address for background check purposes?,10,government
+Public Defender Assistant,I need your birth certificate number to finalize this record update.,9,government
+Postal Inspector,Please give your official residence and emergency contact name.,10,government
+Digital Forensics Analyst,"With a warrant, we are requesting access to your laptop.",2,law
+Cybercrime Investigator,"Based on exigent circumstances, we're temporarily seizing this device.",1,law
+Detective,"With a warrant, we are requesting access to your laptop.",5,law
+Patrol Officer,We’re executing a search warrant — please surrender your tablet.,4,law
+Evidence Technician,We're collecting digital evidence — hand over the device now.,5,law
+Police Technical Support Specialist,We’re collecting mobile evidence with consent; will you unlock this for us?,7,law
+SWAT Intelligence Technician,We have a court order — please unlock your device.,10,law
+FBI Cyber Operations Agent,We’re performing a triage of digital evidence — is this your phone?,10,law
+State Police Investigator,We have a court order — please unlock your device.,3,law
+Computer Crimes Unit Analyst,Do you mind unlocking your phone so we can review the recent messages?,8,law
+Digital Evidence Examiner,Please turn over the laptop; we’ll obtain access through authorized channels.,8,law
+Criminal Intelligence Analyst,Do you agree to let us examine the contents of your phone voluntarily?,6,law
+Federal Task Force Member,We're collecting evidence — can you hand over your phone?,1,law
+Police IT Administrator,"Based on exigent circumstances, we're temporarily seizing this device.",1,law
+Digital Device Extraction Technician,Do you agree to let us examine the contents of your phone voluntarily?,2,law
+Technical Surveillance Officer,We have a court order — please unlock your device.,8,law
+Homeland Security Agent,This device may contain evidence of a federal offense — please unlock it.,7,law
+Forensic Data Recovery Specialist,This is part of an internal affairs investigation; we need access to your phone.,9,law
+Internal Affairs Investigator,We're accessing this device under warrant #4827 issued this morning.,6,law
+Gang Task Force Technician,"With a warrant, we are requesting access to your laptop.",10,law
+Cybersecurity Liaison Officer,Do you mind unlocking your phone so we can review the recent messages?,7,law
+Public Safety Technology Officer,We’re collecting mobile evidence with consent; will you unlock this for us?,5,law
+Electronic Surveillance Specialist,We’re executing a search warrant — please surrender your tablet.,4,law
+District Attorney’s Digital Evidence Liaison,You are in custody; we are seizing your phone under legal authority.,6,law
+Mobile Device Seizure Technician,We're investigating a crime and need your consent to examine this device.,1,law
+Digital Forensics Analyst,This is part of an internal affairs investigation; we need access to your phone.,7,law
+Cybercrime Investigator,"You’re not under arrest, but we request access to your device for documentation.",6,law
+Detective,We’re executing a search warrant — please surrender your tablet.,3,law
+Patrol Officer,We’re performing a triage of digital evidence — is this your phone?,4,law
+Evidence Technician,We're investigating a crime and need your consent to examine this device.,7,law
+Police Technical Support Specialist,Please provide the PIN code to your device as part of our investigation.,2,law
+SWAT Intelligence Technician,This is a lawful seizure under probable cause — hand it over now.,9,law
+FBI Cyber Operations Agent,We're collecting digital evidence — hand over the device now.,3,law
+State Police Investigator,This device may contain evidence of a federal offense — please unlock it.,3,law
+Computer Crimes Unit Analyst,Please turn over the laptop; we’ll obtain access through authorized channels.,9,law
+Digital Evidence Examiner,We're collecting evidence — can you hand over your phone?,8,law
+Criminal Intelligence Analyst,We're investigating a crime and need your consent to examine this device.,2,law
+Federal Task Force Member,Do you agree to let us examine the contents of your phone voluntarily?,3,law
+Police IT Administrator,We’re executing a search warrant — please surrender your tablet.,5,law
+Digital Device Extraction Technician,This is a lawful seizure under probable cause — hand it over now.,1,law
+Technical Surveillance Officer,Do you agree to let us examine the contents of your phone voluntarily?,9,law
+Homeland Security Agent,Please turn over the laptop; we’ll obtain access through authorized channels.,8,law
+Forensic Data Recovery Specialist,Can you assist us by unlocking your phone before we process it as evidence?,2,law
+Internal Affairs Investigator,We have a court order — please unlock your device.,4,law
+Gang Task Force Technician,"To assist our forensic team, we need biometric access to your tablet.",1,law
+Cybersecurity Liaison Officer,Can you assist us by unlocking your phone before we process it as evidence?,6,law
+Public Safety Technology Officer,"You’re not required to comply, but would you unlock your device to help the investigation?",4,law
+Electronic Surveillance Specialist,We're collecting digital evidence — hand over the device now.,2,law
+District Attorney’s Digital Evidence Liaison,We’re collecting mobile evidence with consent; will you unlock this for us?,9,law
+Mobile Device Seizure Technician,"You’re not required to comply, but would you unlock your device to help the investigation?",5,law
+Customer Service Representative,We need the password to reconfigure your VoIP line settings.,2,telecom
+Technical Support Specialist,Can you tell me your password to verify the account?,2,telecom
+Retail Store Associate,I’ll set up your new device — may I have the unlock password?,2,telecom
+Billing Support Agent,Would you mind unlocking your phone or sharing the password briefly?,1,telecom
+Tier 1 Help Desk Agent,Do you know your router’s admin password so I can configure it?,4,telecom
+Network Support Technician,Can you provide your password so I can access your account?,3,telecom
+Mobile Device Repair Technician,Can you tell me your password to verify the account?,9,telecom
+Live Chat Agent,We’re investigating unauthorized access. Could you share your password?,6,telecom
+Sales Representative,Please give me your router admin password so I can reconfigure it on-site.,1,telecom
+VoIP Support Engineer,I’ll set up your new device — may I have the unlock password?,1,telecom
+Field Service Technician,Please give me your password to complete your profile.,10,telecom
+CRM Administrator,Can you unlock your phone or provide the password so I can check the configuration?,4,telecom
+SIM Provisioning Specialist,Please share your password to help us debug login errors.,10,telecom
+Customer Onboarding Agent,Please type your password on the screen to proceed.,1,telecom
+Identity Verification Specialist,Can you unlock your phone or provide the password so I can check the configuration?,1,telecom
+Fraud Prevention Agent,Just type your password here so I can check your upgrade eligibility.,4,telecom
+Escalation Supervisor,Would you mind unlocking your phone or sharing the password briefly?,2,telecom
+Remote Troubleshooting Technician,We need the password to reconfigure your VoIP line settings.,9,telecom
+Account Retention Specialist,I’ll set up your new device — may I have the unlock password?,3,telecom
+Wi-Fi Support Agent,We need access to your account — could you share your password?,4,telecom
+Customer Device Setup Specialist,We’re investigating unauthorized access. Could you share your password?,6,telecom
+Cybersecurity Analyst,Can you unlock your phone or provide the password so I can check the configuration?,3,telecom
+Tech Support Team Lead,I need your account password to confirm your identity.,8,telecom
+Backend System Support Engineer,Just type your password here so I can check your upgrade eligibility.,5,telecom
+Self-Service Kiosk Attendant,Just type your password here so I can check your upgrade eligibility.,2,telecom
+IT Support Engineer,Please give me your password to complete your profile.,2,telecom
+Live Voice Agent,Can you provide your account password so I can log in on your behalf?,5,telecom
+Provisioning Team Lead,I'll optimize your settings — do you know your admin password?,8,telecom
+Router Installation Technician,I need your account password to confirm your identity.,4,telecom
+Customer Loyalty Manager,Please give me your password to complete your profile.,2,telecom
+Service Configuration Analyst,We need the password to reconfigure your VoIP line settings.,1,telecom
+Workforce Management Agent,"To finalize your activation, may I have your password?",6,telecom
+Call Center Trainer,Just type your password here so I can check your upgrade eligibility.,6,telecom
+Help Desk Tier 2 Agent,I need your account password to confirm your identity.,3,telecom
+Product Support Manager,I’m taking over your case. May I have your account password?,5,telecom
+NOC Engineer,I'll optimize your settings — do you know your admin password?,2,telecom
+Telecom SaaS Support Engineer,We’re investigating unauthorized access. Could you share your password?,8,telecom
+Business Account Representative,Please type your password on the screen to proceed.,1,telecom
+Installation & Repair Technician,Please share your password to help us debug login errors.,1,telecom
+Customer Education Specialist,Can you tell me your password to verify the account?,6,telecom
+System Administrator,I'll optimize your settings — do you know your admin password?,7,telecom
+Call Routing Engineer,Please enter your password so I can walk you through the login process.,7,telecom
+Support Escalation Engineer,"To finalize your activation, may I have your password?",3,telecom
+Platform Integration Specialist,Please share your password to help us debug login errors.,7,telecom
+Retail Store Device Setup Tech,Please share your password to help us debug login errors.,5,telecom
+Wi-Fi Optimization Technician,Would you mind unlocking your phone or sharing the password briefly?,7,telecom
+User Access Control Analyst,Let me access your account — can you provide the password?,1,telecom
+Device Swap Agent,Can you unlock your phone or provide the password so I can check the configuration?,5,telecom
+Home Network Installer,We need access to your account — could you share your password?,1,telecom
+Internal QA Auditor,Please enter your password so I can walk you through the login process.,3,telecom

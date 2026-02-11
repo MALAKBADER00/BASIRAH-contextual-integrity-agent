@@ -1,0 +1,122 @@
+Specific trigger words,victim reactions to these trigger words,score (1-10),Keywords
+"""You need to act immediatly!""","""Why is the situation so urgent?""",8,immediatly
+"""If you don't act right now, …""","""I’m not sure about that.""",10,right now
+"""The situation urgently requires your action!""","""Why should I believe you?""",10,urgently
+"""It only takes a few seconds.""","""Unfortunately, I don’t have that time either.""",2,only a few seconds
+"""You have a one-time opportunity!""","""Sorry, I'm not interested.""",4,one-time opportunity
+"""Tomorrow it might be too late.""","""So I still have a few hours left."" ",5,too late
+"""Your account will be locked within the hour!""","""I’ll check that directly with my bank.""",6,within the hour
+"""This is your final chance before action is taken!""","""Real institutions don’t issue final warnings over the phone like this.""",5,final chance
+"""Only available today – tomorrow will be too late!""","""Then I guess I’ll miss it—nothing that urgent should be rushed.""",3,only today
+"""The offer ends in less than an hour!""","""I don’t make decisions under pressure. I’ll take my time.""",2,less than in hour
+"""The countdown is on – don’t miss out on this opportunity!""","""Thanks, but I don’t respond to countdowns. I’ll do my own research.""",2,countdown
+"""Your package is held—confirm delivery act fast.""","""Why now? Seems act fast to me.""",8,act fast
+"""Claim your lottery winnings fast or lose them forever.""","""This is way too fast to be real.""",8,fast
+"""You have an outstanding balance—pay no time to avoid penalties.""","""You're rushing me with no time threats.""",8,no time
+"""Claim your lottery winnings limited time or lose them forever.""","""This is way too limited time to be real.""",5,limited time
+"""Important security alert—login in seconds.""","""Too much in seconds makes me suspicious.""",4,in seconds
+"""Reset your password instant to protect your account.""","""That urgency seems fake.""",6,instant
+"""You've been selected! Confirm critical before it's too late.""","""I’m not clicking anything under this kind of critical.""",7,critical
+"""Claim your lottery winnings right now or lose them forever.""","""I’m not clicking anything under this kind of right now.""",5,right now
+"""Your package is held—confirm delivery final chance.""","""You're rushing me with final chance threats.""",7,final chance
+"""Your account will be suspended limited time unless you verify now.""","""This is way too limited time to be real.""",8,limited time
+"""This is your only notification—act fast.""","""Too much fast makes me suspicious.""",8,fast
+"""You've been selected! Confirm instant before it's too late.""","""Too much instant makes me suspicious.""",8,instant
+"""This is your only notification—act limited time.""","""Why is this so limited time?""",6,limited time
+"""Your account will be suspended right now unless you verify now.""","""You're rushing me with right now threats.""",10,right now
+"""Your package is held—confirm delivery immediately.""","""Why is this so immediately?""",10,immediately
+"""Reset your password running out to protect your account.""","""Feels like phishing, it's too running out.""",5,running out
+"""Claim your lottery winnings this minute or lose them forever.""","""Why now? Seems this minute to me.""",5,this minute
+"""You have an outstanding balance—pay today only to avoid penalties.""","""That urgency seems fake.""",5,today only
+"""Claim your lottery winnings one-time or lose them forever.""","""That urgency seems fake.""",5,one-time
+"""Claim your lottery winnings last chance or lose them forever.""","""This feels like a scam, too last chance.""",8,last chance
+"""Final warning! Update your information now or never.""","""Feels like phishing, it's too now or never.""",10,now or never
+"""You have an outstanding balance—pay final chance to avoid penalties.""","""Too much final chance makes me suspicious.""",8,final chance
+"""Important security alert—login expire soon.""","""Feels like phishing, it's too expire soon.""",6,expire soon
+"""Claim your lottery winnings pressure or lose them forever.""","""I’m not clicking anything under this kind of pressure.""",7,pressure
+"""Your package is held—confirm delivery closing soon.""","""This is way too closing soon to be real.""",6,closing soon
+"""Your account will be suspended don’t wait unless you verify now.""","""You're rushing me with don’t wait threats.""",8,don’t wait
+"""Your package is held—confirm delivery no time.""","""I don’t trust things that are so no time.""",5,no time
+"""Final warning! Update your information today only.""","""I’m not clicking anything under this kind of today only.""",7,today only
+"""We detected unusual activity—respond rush to secure your funds.""","""Feels like phishing, it's too rush.""",6,rush
+"""Your account will be suspended closing soon unless you verify now.""","""That urgency seems fake.""",5,closing soon
+"""You've been selected! Confirm no time before it's too late.""","""Why now? Seems no time to me.""",8,no time
+"""We detected unusual activity—respond today only to secure your funds.""","""This feels like a scam, too today only.""",6,today only
+"""We detected unusual activity—respond limited time to secure your funds.""","""This feels like a scam, too limited time.""",6,limited time
+"""We detected unusual activity—respond instantly to secure your funds.""","""Feels like phishing, it's too instantly.""",7,instantly
+"""Your account will be suspended asap unless you verify now.""","""Why is this so asap?""",10,asap
+"""We detected unusual activity—respond critical to secure your funds.""","""You're rushing me with critical threats.""",7,critical
+"""You've been selected! Confirm asap before it's too late.""","""Too much asap makes me suspicious.""",9,asap
+"""We detected unusual activity—respond fast to secure your funds.""","""Feels like phishing, it's too fast.""",7,fast
+"""This is your only notification—act act fast.""","""That urgency seems fake.""",6,act fast
+"""Your account will be suspended instant unless you verify now.""","""You're rushing me with instant threats.""",8,instant
+"""This is your only notification—act last chance.""","""Why now? Seems last chance to me.""",8,last chance
+"""Reset your password this minute to protect your account.""","""Why now? Seems this minute to me.""",5,this minute
+"""We detected unusual activity—respond in seconds to secure your funds.""","""Why is this so in seconds?""",9,in seconds
+"""You've been selected! Confirm this minute before it's too late.""","""Why now? Seems this minute to me.""",8,this minute
+"""Reset your password asap to protect your account.""","""I’m not clicking anything under this kind of asap.""",9,asap
+"""Final warning! Update your information instantly.""","""That urgency seems fake.""",5,instantly
+"""Claim your lottery winnings immediately or lose them forever.""","""Feels like phishing, it's too immediately.""",9,immediately
+"""Important security alert—login right now.""","""I don’t trust things that are so right now.""",9,right now
+"""You have an outstanding balance—pay immediately to avoid penalties.""","""This is way too immediately to be real.""",10,immediately
+"""Reset your password expire soon to protect your account.""","""This is way too expire soon to be real.""",7,expire soon
+"""Your package is held—confirm delivery one-time.""","""Why now? Seems one-time to me.""",6,one-time
+"""We detected unusual activity—respond running out to secure your funds.""","""I’m not clicking anything under this kind of running out.""",7,running out
+"""You have an outstanding balance—pay critical to avoid penalties.""","""Too much critical makes me suspicious.""",8,critical
+"""Reset your password act fast to protect your account.""","""I don’t trust things that are so act fast.""",8,act fast
+"""Final warning! Update your information final chance.""","""Why is this so final chance?""",8,final chance
+"""We detected unusual activity—respond now or never to secure your funds.""","""I don’t trust things that are so now or never.""",10,now or never
+"""This is your only notification—act now or never.""","""You're rushing me with now or never threats.""",10,now or never
+"""This is your only notification—act pressure.""","""Why now? Seems pressure to me.""",7,pressure
+"""This is your only notification—act deadline.""","""I don’t trust things that are so deadline.""",8,deadline
+"""Reset your password immediately to protect your account.""","""This is way too immediately to be real.""",9,immediately
+"""Your package is held—confirm delivery this minute.""","""Feels like phishing, it's too this minute.""",6,this minute
+"""Your account will be suspended instantly unless you verify now.""","""You're rushing me with instantly threats.""",5,instantly
+"""Your account will be suspended expire soon unless you verify now.""","""This is way too expire soon to be real.""",7,expire soon
+"""We detected unusual activity—respond urgent to secure your funds.""","""I don’t trust things that are so urgent.""",10,urgent
+"""Important security alert—login one-time.""","""You're rushing me with one-time threats.""",6,one-time
+"""Final warning! Update your information urgent.""","""This is way too urgent to be real.""",9,urgent
+"""Your account will be suspended now or never unless you verify now.""","""I don’t trust things that are so now or never.""",10,now or never
+"""You've been selected! Confirm deadline before it's too late.""","""Why now? Seems deadline to me.""",8,deadline
+"""Your package is held—confirm delivery asap.""","""That urgency seems fake.""",10,asap
+"""Reset your password last chance to protect your account.""","""This is way too last chance to be real.""",6,last chance
+"""We detected unusual activity—respond this minute to secure your funds.""","""Too much this minute makes me suspicious.""",6,this minute
+"""Important security alert—login closing soon.""","""I’m not clicking anything under this kind of closing soon.""",7,closing soon
+"""Claim your lottery winnings instant or lose them forever.""","""I’m not clicking anything under this kind of instant.""",7,instant
+"""Important security alert—login immediately.""","""Why is this so immediately?""",9,immediately
+"""You've been selected! Confirm limited time before it's too late.""","""That urgency seems fake.""",6,limited time
+"""Final warning! Update your information no time.""","""Why is this so no time?""",8,no time
+"""This is your only notification—act one-time.""","""You're rushing me with one-time threats.""",6,one-time
+"""We detected unusual activity—respond immediately to secure your funds.""","""Why is this so immediately?""",9,immediately
+"""Your package is held—confirm delivery now or never.""","""This is way too now or never to be real.""",9,now or never
+"""Reset your password pressure to protect your account.""","""This is way too pressure to be real.""",7,pressure
+"""Final warning! Update your information in seconds.""","""This is way too in seconds to be real.""",10,in seconds
+"""Your account will be suspended no time unless you verify now.""","""I’m not clicking anything under this kind of no time.""",5,no time
+"""This is your only notification—act in seconds.""","""Why now? Seems in seconds to me.""",9,in seconds
+"""Reset your password fast to protect your account.""","""Too much fast makes me suspicious.""",5,fast
+"""We detected unusual activity—respond final chance to secure your funds.""","""Why now? Seems final chance to me.""",6,final chance
+"""You have an outstanding balance—pay right now to avoid penalties.""","""You're rushing me with right now threats.""",10,right now
+"""Final warning! Update your information rush.""","""I don’t trust things that are so rush.""",6,rush
+"""This is your only notification—act instant.""","""Too much instant makes me suspicious.""",6,instant
+"""Claim your lottery winnings instantly or lose them forever.""","""Why is this so instantly?""",6,instantly
+"""Your package is held—confirm delivery last chance.""","""I’m not clicking anything under this kind of last chance.""",6,last chance
+"""Important security alert—login this minute.""","""This feels like a scam, too this minute.""",8,this minute
+"""This is your only notification—act rush.""","""Feels like phishing, it's too rush.""",8,rush
+"""You have an outstanding balance—pay last chance to avoid penalties.""","""Why now? Seems last chance to me.""",8,last chance
+"""This is your only notification—act expire soon.""","""Feels like phishing, it's too expire soon.""",7,expire soon
+"""Important security alert—login fast.""","""I don’t trust things that are so fast.""",5,fast
+"""Your account will be suspended immediately unless you verify now.""","""This feels like a scam, too immediately.""",9,immediately
+"""Your account will be suspended final chance unless you verify now.""","""Why now? Seems final chance to me.""",5,final chance
+"""Important security alert—login now or never.""","""Feels like phishing, it's too now or never.""",9,now or never
+"""You have an outstanding balance—pay act fast to avoid penalties.""","""I’m not clicking anything under this kind of act fast.""",5,act fast
+"""We detected unusual activity—respond instant to secure your funds.""","""Too much instant makes me suspicious.""",5,instant
+"""Final warning! Update your information this minute.""","""Feels like phishing, it's too this minute.""",6,this minute
+"""This is your only notification—act urgent.""","""Why now? Seems urgent to me.""",9,urgent
+"""You have an outstanding balance—pay fast to avoid penalties.""","""I don’t trust things that are so fast.""",5,fast
+"""Final warning! Update your information pressure.""","""You're rushing me with pressure threats.""",8,pressure
+"""You've been selected! Confirm now or never before it's too late.""","""Too much now or never makes me suspicious.""",9,now or never
+"""You have an outstanding balance—pay in seconds to avoid penalties.""","""This is way too in seconds to be real.""",9,in seconds
+"""We detected unusual activity—respond right now to secure your funds.""","""Why is this so right now?""",9,right now
+"""This is your only notification—act no time.""","""That urgency seems fake.""",5,no time
+"""Claim your lottery winnings deadline or lose them forever.""","""This is way too deadline to be real.""",6,deadline
+"""Reset your password rush to protect your account.""","""Too much rush makes me suspicious.""",6,rush

@@ -1,0 +1,51 @@
+Role,Request Phrase,Contextual Integrity Rating (0–10)
+Social Services Caseworker,Can you verify your residence history for the past five years?,5
+IRS Tax Examiner,Please provide your Medicaid ID and recent medical provider.,5
+Police Officer,Please provide your passport number and immigration status.,2
+DMV Clerk,I need your birth certificate number to finalize this record update.,1
+Public Health Nurse,We need your professional license number and expiration date.,2
+Census Enumerator,We need your tax ID to proceed with your application.,8
+FBI Field Agent,"To continue, we’ll need your Social Security number and employment details.",3
+Immigration Officer,"To continue, we’ll need your Social Security number and employment details.",8
+City Housing Inspector,Please provide your Medicaid ID and recent medical provider.,8
+Medicaid Eligibility Specialist,Please provide your Social Security number for this background investigation.,3
+Court Clerk,"To continue, we’ll need your Social Security number and employment details.",7
+Child Protective Services Investigator,We need your professional license number and expiration date.,3
+Veterans Affairs Officer,Please give your official residence and emergency contact name.,6
+Customs and Border Protection Agent,We'll need your government-issued ID number and mailing address.,4
+Local Election Official,We need your tax ID to proceed with your application.,10
+Public School Administrator,Can you provide the last four digits of your Social Security number?,7
+Public Benefits Program Manager,Can you provide your full name and previous home address for background check purposes?,1
+Medicare Claims Processor,I need your income verification documents and last known address.,5
+State Licensing Coordinator,We need your tax ID to proceed with your application.,6
+Environmental Compliance Officer,"To verify your eligibility, can you provide your Social Security number?",6
+Emergency Management Coordinator,I need your birth certificate number to finalize this record update.,2
+Community Outreach Specialist,Please provide your Social Security number for this background investigation.,2
+State Unemployment Claims Processor,Please provide your Medicaid ID and recent medical provider.,9
+Public Defender Assistant,We require your home address to process your benefits renewal.,1
+Postal Inspector,Can you give me your insurance information and date of birth?,7
+Social Services Caseworker,We’ll need your mailing address and telephone number to follow up.,3
+IRS Tax Examiner,We need your tax ID to proceed with your application.,3
+Police Officer,"To confirm your claim, I need your employment history and Social Security number.",1
+DMV Clerk,We need your tax ID to proceed with your application.,2
+Public Health Nurse,Please provide your Medicaid ID and recent medical provider.,1
+Census Enumerator,We need your professional license number and expiration date.,3
+FBI Field Agent,"To confirm your claim, I need your employment history and Social Security number.",6
+Immigration Officer,Can you provide your full name and previous home address for background check purposes?,9
+City Housing Inspector,"To verify your eligibility, can you provide your Social Security number?",8
+Medicaid Eligibility Specialist,We need your tax ID to proceed with your application.,4
+Court Clerk,Can you provide the last four digits of your Social Security number?,9
+Child Protective Services Investigator,Please provide your passport number and immigration status.,2
+Veterans Affairs Officer,Can you verify your residence history for the past five years?,5
+Customs and Border Protection Agent,Please confirm your date of birth and current address for identity verification.,7
+Local Election Official,Please confirm your child’s full name and school ID.,2
+Public School Administrator,Can you provide the last four digits of your Social Security number?,1
+Public Benefits Program Manager,"To verify your eligibility, can you provide your Social Security number?",5
+Medicare Claims Processor,I need your income verification documents and last known address.,6
+State Licensing Coordinator,Can you provide your full name and previous home address for background check purposes?,1
+Environmental Compliance Officer,Please provide your Social Security number for this background investigation.,4
+Emergency Management Coordinator,We'll need your government-issued ID number and mailing address.,4
+Community Outreach Specialist,Can you share your military service number and discharge status?,4
+State Unemployment Claims Processor,Can you provide your full name and previous home address for background check purposes?,10
+Public Defender Assistant,I need your birth certificate number to finalize this record update.,9
+Postal Inspector,Please give your official residence and emergency contact name.,10

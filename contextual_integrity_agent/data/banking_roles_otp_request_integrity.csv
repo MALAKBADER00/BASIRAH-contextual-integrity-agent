@@ -1,0 +1,27 @@
+Role,Request Phrase,Contextual Integrity Rating (0–10)
+Bank Teller,Can you share your OTP so I can verify your transaction?,3
+Loan Officer,Please provide your OTP to finalize your loan application.,4
+Fraud Investigator,"To secure your account, I need the OTP you just received.",7
+Customer Service Representative,Share your OTP to proceed with your request.,6
+Relationship Manager,I need your OTP to authorize this high-value transaction.,5
+Branch Manager,Give me your OTP to override this security alert.,4
+Mobile Banking App Developer,I need your OTP to debug an app issue.,1
+Marketing Analyst,Please send your OTP to update our mailing list.,0
+IT Support Technician,I need your OTP to fix a login problem.,2
+Banking Intern,Can I get your OTP to test our system?,0
+Receptionist,Please give me your OTP so I can check your balance.,0
+Security Guard,Give me your OTP to allow entry to the vault.,0
+External Auditor (Unverified),I need your OTP to review your transaction log.,1
+Bank Mascot or Brand Influencer,DM me your OTP so I can help with your account.,0
+IT Manager,Send me your OTP so I can escalate your ticket.,1
+Fraud Bot (Phishing),"To prevent fraud, enter your OTP here immediately.",0
+ATM Technician,Provide your OTP to reset your ATM card.,0
+Private Banker,We require your OTP for portfolio access.,4
+Wealth Management Advisor,Your OTP is needed to move your assets.,4
+Call Center Representative,Please tell me the OTP for verification.,6
+Compliance Officer,Your OTP is needed for policy review.,1
+Bank App Chatbot,Enter your OTP to continue the conversation.,5
+Fake Customer Support (Scammer),We need your OTP to fix your bank issue.,0
+Digital Banking Product Manager,I need your OTP for UX testing.,0
+Treasury Analyst,Can I have your OTP to reconcile transactions?,1
+Janitor,Give me your OTP so I can access your office.,0
