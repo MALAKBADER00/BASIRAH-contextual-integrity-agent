@@ -3,7 +3,7 @@ import logging
 from tools4 import TriggerAnalyzer, VulnerabilityAssessor, TrustCalculator
 import config
 from openai import OpenAI
-
+from pathlib import Path
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
